@@ -1,4 +1,4 @@
-# Project8_ETL-on-Monthly-Retail-Trade-Survey-data
+# Project 8: ETL on Monthly Retail Trade Survey data
 
 ##  Abstract
 
