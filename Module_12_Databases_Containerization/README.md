@@ -1,4 +1,4 @@
-# Module 12-Databases-Containerization
+# Module 12 Databases Containerization
 
 ## Abstract
 The goal of the assignment is to impart hands-on expertise in database management, containerization technologies, and cloud-based systems.
