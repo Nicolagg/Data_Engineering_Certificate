@@ -1,4 +1,4 @@
-# Creating a Sensemaking Data Pipeline
+# Project 23: Scraping to Data Visualization: A Dockerized Airflow Data Pipeline
 ## Abstract
 This project aims to execute a comprehensive data analysis workflow to extract, clean, analyze, and visualize course titles from MIT's course catalog. Leveraging Python's urllib library, the project begins by scraping unstructured data from the web. The data is then cleaned and structured using Python's Beautiful Soup library and stored in JSON format. A suite of text analytics techniques are applied to count the frequency of words in course titles. All these steps are orchestrated using Apache Airflow, encapsulated within a Docker container for ease of deployment and scalability. The final output is a visually compelling web application utilizing the D3.js library to represent the word frequency in MIT course titles.
 
