@@ -1,4 +1,4 @@
-# Performing ETL Using NiFi
+# Module 17: Performing ETL Using NiFi
 ## Abstract
 The assignment is about the ETL (Extract, Transform, Load) process operations using Apache NiFi, a data integration tool, on a dataset of movies. Divided into two parts, the assignment first focuses on creating a NiFi pipeline to transfer data from an Excel file (.xlsx) to a Comma-Separated Values (CSV) file. The second part extends the ETL process to transfer this CSV data into a MySQL database. The assignment will be conducted within a Docker environment to instantiate NiFi and MySQL containers connected to the same network, facilitating the ETL process.
 
