@@ -5,7 +5,7 @@ This report outlines the process of building a prediction model using linear reg
 
 
 ## Go to the project
-[jupyter notebook](https://github.com/Nicolagg/Data_Engineering_Certificate/blob/main/Project_7_Housing_Price_Prediction/Modul%207.ipynb)
+[jupyter notebook](Modul%207.ipynb)
 
 ---
 **[🔙 Back to portfolio](https://nicolagg.github.io/)**
