@@ -6,11 +6,11 @@ This report discusses the ETL (Extract, Transform, Load) process : from extracti
 
 ## Go to the project
 
-[Jupyter Notebook](Module%208_lagger_Nicolas.ipynb)
+[Jupyter Notebook](https://github.com/Nicolagg/Data_Engineering_Certificate/blob/c9ee768ab77fd91fdab7cfae9e07f5c35afb4497/Project_8_ETL_on_Monthly_Retail_Trade_Survey_data/Module%208_lagger_Nicolas.ipynb)
 
 [Raw Data (Excel file)](mrtssales92.xls)
 
-[full repository]()
+[full repository](https://github.com/Nicolagg/Data_Engineering_Certificate/tree/c9ee768ab77fd91fdab7cfae9e07f5c35afb4497/Project_8_ETL_on_Monthly_Retail_Trade_Survey_data)
 
 ---
 **[🔙 Back to portfolio](https://nicolagg.github.io/)**
